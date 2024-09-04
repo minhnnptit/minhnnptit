@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Nhat Minh</h1>
 <h3 align="center">On my way to become a Pentester</h3>
 
-- 🔭 I’m currently studing at **PTIT, Ha Noi**
+- 🔭 I’m currently studying at **PTIT, Ha Noi**
 
 - 🌱 I’m currently learning **Cyber Security**
 
