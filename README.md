@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhnnptit&label=Profile%20views&color=0e75b6&style=flat" alt="minhnnptit" /> </p>
 
-- 🔭 I’m currently studing Information Security at **PTIT, Ha Noi**
+- 🔭 I’m currently studying Information Security at **PTIT, Ha Noi**
 
 - 🌱 I’m currently learning **Cyber Security**
 
